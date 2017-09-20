@@ -1,0 +1,17 @@
+{
+  "name": "commit-reporting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "dateformat": "^3.0.0",
+    "stash-client": "^0.2.0"
+  }
+}
